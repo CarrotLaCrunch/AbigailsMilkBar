@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbigailsMilkBar.Plugins", "AbigailsMilkBar.Plugins.csproj", "{A477CE0B-48C5-C3ED-2806-A56B9605DBE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbigailsMilkBar", "AbigailsMilkBar.csproj", "{CE39B313-FDC9-C885-2DC6-1E467985E3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A477CE0B-48C5-C3ED-2806-A56B9605DBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A477CE0B-48C5-C3ED-2806-A56B9605DBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A477CE0B-48C5-C3ED-2806-A56B9605DBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A477CE0B-48C5-C3ED-2806-A56B9605DBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE39B313-FDC9-C885-2DC6-1E467985E3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE39B313-FDC9-C885-2DC6-1E467985E3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE39B313-FDC9-C885-2DC6-1E467985E3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE39B313-FDC9-C885-2DC6-1E467985E3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
